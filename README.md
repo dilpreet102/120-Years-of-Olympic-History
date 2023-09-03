@@ -15,4 +15,5 @@ I have come up with 19 different SQL queries which I can write on this Olympics 
 
 
 Language Used: SQL
+
 Database Used: MYSQL
